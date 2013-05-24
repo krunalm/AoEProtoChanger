@@ -1,0 +1,9 @@
+D:\Krunal Other\AoEProtoChanger\AoEProtoChanger\bin\Release\sample-files\proto - sample.xml
+D:\Krunal Other\AoEProtoChanger\AoEProtoChanger\bin\Release\sample-files\protoy - sample.xml
+D:\Krunal Other\AoEProtoChanger\AoEProtoChanger\bin\Release\AoEProtoChanger.exe
+D:\Krunal Other\AoEProtoChanger\AoEProtoChanger\bin\Release\AoEProtoChanger.pdb
+D:\Krunal Other\AoEProtoChanger\AoEProtoChanger\obj\Release\AoEProtoChanger.MainForm.resources
+D:\Krunal Other\AoEProtoChanger\AoEProtoChanger\obj\Release\AoEProtoChanger.Properties.Resources.resources
+D:\Krunal Other\AoEProtoChanger\AoEProtoChanger\obj\Release\AoEProtoChanger.csproj.GenerateResource.Cache
+D:\Krunal Other\AoEProtoChanger\AoEProtoChanger\obj\Release\AoEProtoChanger.exe
+D:\Krunal Other\AoEProtoChanger\AoEProtoChanger\obj\Release\AoEProtoChanger.pdb
